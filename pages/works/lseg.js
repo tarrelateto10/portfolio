@@ -24,11 +24,11 @@ import {
         </Title>
         <P>
         Refinitiv Workspace is a new desktop platform designed to improve workflows, usability and performance. 
-        It's tailored to your job role as well as being fully customizable, so you can find the information you need when you need it.
+        It&apos;s tailored to your job role as well as being fully customizable, so you can find the information you need when you need it.
         </P>
         <P>
         The EAP is intended to test installation, security, functionality and content. As part of the EAP, 
-        you'll be able to use Refinitiv Workspace and provide feedback, letting us know what we can do better or 
+        you&apos;ll be able to use Refinitiv Workspace and provide feedback, letting us know what we can do better or 
         tell us what would make doing your job easier and be more efficient.
         </P>
         <List ml={4} my={4}>
@@ -63,7 +63,7 @@ import {
           <List spacing={3}>
             <ListItem>
               <ListIcon as={CircleIcon} colorScheme="glassTeal" />
-              Developed internal software functionalities, ensuring that clients' vision and requirements were.
+              Developed internal software functionalities, ensuring that clients&apos; vision and requirements were.
             </ListItem>
             <ListItem>
               <ListIcon as={CircleIcon} colorScheme="glassTeal" />

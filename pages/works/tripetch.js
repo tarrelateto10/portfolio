@@ -5,7 +5,7 @@ import {
   List,
   ListItem,
   ListIcon,
-  AspectRatio,
+  // AspectRatio,
   Heading
 } from "@chakra-ui/react"
 import { BioSection } from "../../components/bio"

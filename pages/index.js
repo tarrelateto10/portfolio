@@ -1,17 +1,17 @@
 import NextLink from 'next/link'
-import { Button,Container, Box, Heading, Image, useColorModeValue,Link,SimpleGrid,List,ListItem } from "@chakra-ui/react"
+import { Button,Container, Box, Heading, Image, useColorModeValue} from "@chakra-ui/react"
 import Head from "next/head"
 import { ChevronRightIcon } from '@chakra-ui/icons'
 import Layout from '../components/layouts/article'
 import Section from "../components/section"
 import Paragraph from "../components/paragraph"
 import { BioSection,BioYear } from '../components/bio'
-import { GridItem } from '../components/grid-item'
+// import { GridItem } from '../components/grid-item'
 // import thumbYouTube from '../public/images/links/youtube.png'
 // import thumbInkdrop from '../public/images/works/inkdrop_eyecatch.png'
-import {
-  IoLogoTwitter,IoLogoInstagram,IoLogoGithub,
-} from 'react-icons/io5'
+// import {
+//   IoLogoTwitter,IoLogoInstagram,IoLogoGithub,
+// } from 'react-icons/io5'
 
 const Page = () => {
   return (
@@ -56,7 +56,7 @@ const Page = () => {
        and programming languages, problem solving, responsive design principles, website optimization ,
         and Model View Controller(MVC) method of organizing code. So far I have JavaScript,
          TypeScript, HTML, CSS, Angular, React and Git. 
-         I'm still enthusiastically grabbing onto any other programming languages, frameworks, 
+         I&apos;m still enthusiastically grabbing onto any other programming languages, frameworks, 
          or principles I can integrate into the coding web in my head.
       </Paragraph>
          <Box align="center" my={4}>

@@ -1,4 +1,4 @@
-import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
+import { Heading, SimpleGrid, Divider } from '@chakra-ui/react'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
 
@@ -96,7 +96,7 @@ const Works = () => (
       <SimpleGrid columns={[1, 1, 2]} gap={6}>
         <Section delay={0.5}>
           <WorkGridItem id="thumbTripetch" thumbnail={thumbTripetch} title="My-ISUZU">
-          Let's share experiences for Isuzu users together.
+          Let&apos;s share experiences for Isuzu users together.
           </WorkGridItem>
         </Section>
       </SimpleGrid>
